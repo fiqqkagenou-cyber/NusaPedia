@@ -42,6 +42,9 @@ Favorit : menyimpan dan menampilkan data yang ditandai sebagai favorit
 
 Profil : menampilkan foto dan nama pengguna
 
+
+
+**Project ini dibuat untuk keperluan projek UAS Mobile Programming**
 Dark Mode & Light Mode : pengguna dapat beralih tema sesuai preferensi
 
 Data tersimpan lokal : menggunakan Room Database dengan dua tabel: endemik dan favorit
