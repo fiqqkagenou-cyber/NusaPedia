@@ -50,8 +50,12 @@ Koneksi API : menggunakan Retrofit untuk pengambilan data dari server
 
 
 
-
-
+**INFORMASI PEMBUAT**
+Nama          : Rofiq Nurrohman
+Nim           : 2410501039
+Kelas         : B
+Program Studi : D3 Sistem Informasi
+Mata Kuliah   : Mobile Programming
 
 
 
