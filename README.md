@@ -49,4 +49,15 @@ Data tersimpan lokal : menggunakan Room Database dengan dua tabel: endemik dan f
 Koneksi API : menggunakan Retrofit untuk pengambilan data dari server
 
 
-**Project ini dibuat untuk keperluan projek UAS Mobile Programming**
+
+
+
+
+
+
+
+
+
+
+
+**PROJECT INI DIBUAT UNTUK KEPERLUAN UAS MOBILE PROGRAMMING**
