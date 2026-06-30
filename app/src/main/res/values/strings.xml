@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndemikDB</string>
+    <string name="nav_hewan">Hewan</string>
+    <string name="nav_tumbuhan">Tumbuhan</string>
+    <string name="label_cari">Temukan...</string>
+    <string name="label_asal">Asal</string>
+    <string name="label_sebaran">Sebaran</string>
+    <string name="label_status">Status</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="label_famili">Famili</string>
+    <string name="btn_tutup">Tutup</string>
+</resources>
