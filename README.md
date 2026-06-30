@@ -11,7 +11,7 @@ NusaPedia adalah aplikasi Android berbasis ensiklopedia digital yang menampilkan
   </tr>
   <tr>
     <td><img src="screenshots/1.jpeg" width="200"/></td>
-    <td><img src="screenshots/home_atau_hewan.jpeg" width="200"/></td>
+    <td><img src="screenshots/hewan.jpeg" width="200"/></td>
     <td><img src="screenshots/tumbuhan.jpeg" width="200"/></td>
   </tr>
   <tr>
