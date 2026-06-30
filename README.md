@@ -30,6 +30,7 @@ Profil
 
 **Fitur**
 Splash Screen — tampilan pembuka saat aplikasi dibuka
+
 Home — halaman utama dengan bottom navigation bar (Hewan, Tumbuhan, Profil)
 Pencarian — mencari hewan/tumbuhan endemik berdasarkan nama
 Detail — menampilkan informasi lengkap satu spesies (nama, famili, asal, sebaran, status konservasi, deskripsi)
