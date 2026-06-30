@@ -4,4 +4,4 @@ NusaPedia adalah aplikasi Android berbasis ensiklopedia digital yang menampilkan
 **Tangkapan Layar**
 
 **Splash Screen**
-![Home](screenshots/1.jpg)
+![Splash](screenshots/1.jpg)
