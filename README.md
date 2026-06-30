@@ -3,33 +3,24 @@ NusaPedia adalah aplikasi Android berbasis ensiklopedia digital yang menampilkan
 
 
 **Tangkapan Layar**
-<table>
-  <tr>
-    <td align="center"><b>Splash Screen</b></td>
-    <td align="center"><b>Home</b></td>
-    <td align="center"><b>Tumbuhan</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/1.jpeg" width="200"/></td>
-    <td><img src="screenshots/hewan.jpeg" width="200"/></td>
-    <td><img src="screenshots/tumbuhan.jpeg" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Pencarian</b></td>
-    <td align="center"><b>Detail</b></td>
-    <td align="center"><b>Favorit</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/pencarian.jpeg" width="200"/></td>
-    <td><img src="screenshots/detil.jpeg" width="200"/></td>
-    <td><img src="screenshots/favorite.jpeg" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Profil</b></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><img src="screenshots/profil.jpeg" width="200"/></td>
-  </tr>
-</table>
+Splash Screen
+
+<img src="screenshots/1.jpeg" width="250"/>
+Home
+
+<img src="screenshots/hewan.jpeg" width="250"/>
+Tumbuhan
+
+<img src="screenshots/tumbuhan.jpeg" width="250"/>
+Pencarian
+
+<img src="screenshots/pencarian.jpeg" width="250"/>
+Detail
+
+<img src="screenshots/detil.jpeg" width="250"/>
+Favorit
+
+<img src="screenshots/favorite.jpeg" width="250"/>
+Profil
+
+<img src="screenshots/profil.jpeg" width="250"/>
